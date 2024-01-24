@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/main-course-homeworks-wednesday/static/css/main.0a2f6631.css",
-    "main.js": "/main-course-homeworks-wednesday/static/js/main.f27a29de.js",
+    "main.css": "/main-course-homeworks-wednesday/static/css/main.b8d051c6.css",
+    "main.js": "/main-course-homeworks-wednesday/static/js/main.b115f29f.js",
     "static/js/787.e6910ee9.chunk.js": "/main-course-homeworks-wednesday/static/js/787.e6910ee9.chunk.js",
     "static/media/avatar.png": "/main-course-homeworks-wednesday/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/main-course-homeworks-wednesday/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
@@ -10,12 +10,12 @@
     "index.html": "/main-course-homeworks-wednesday/index.html",
     "static/media/checked.svg": "/main-course-homeworks-wednesday/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "static/media/burger.svg": "/main-course-homeworks-wednesday/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.0a2f6631.css.map": "/main-course-homeworks-wednesday/static/css/main.0a2f6631.css.map",
-    "main.f27a29de.js.map": "/main-course-homeworks-wednesday/static/js/main.f27a29de.js.map",
+    "main.b8d051c6.css.map": "/main-course-homeworks-wednesday/static/css/main.b8d051c6.css.map",
+    "main.b115f29f.js.map": "/main-course-homeworks-wednesday/static/js/main.b115f29f.js.map",
     "787.e6910ee9.chunk.js.map": "/main-course-homeworks-wednesday/static/js/787.e6910ee9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a2f6631.css",
-    "static/js/main.f27a29de.js"
+    "static/css/main.b8d051c6.css",
+    "static/js/main.b115f29f.js"
   ]
 }
